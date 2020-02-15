@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "tech": "Ashish Prasad",
+      "attention": true,
+      "message": "Awesome Application",
+      "date": "2020-02-15T19:37:26.097Z",
+      "id": 3
+    },
+    {
+      "tech": "Narendra Maurya",
+      "attention": false,
+      "message": "This is amazing my friend",
+      "date": "2020-02-15T19:38:23.458Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Ashish",
+      "lastName": "Prasad",
+      "id": 4
+    },
+    {
+      "firstName": "Narendra",
+      "lastName": "Maurya",
+      "id": 5
+    },
+    {
+      "firstName": "Aharnish",
+      "lastName": "Arpit",
+      "id": 6
+    }
+  ]
+}
